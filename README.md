@@ -1,1 +1,2 @@
 # Signsync
+Author - Pratham Parekh
